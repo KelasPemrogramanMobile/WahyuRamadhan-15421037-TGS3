@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasKetiga</string>
+    <string-array name="agama">
+        <item>Silahkan Pilih Agama</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Katholik</item>
+    </string-array>
+</resources>
